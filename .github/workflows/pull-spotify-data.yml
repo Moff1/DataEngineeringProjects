@@ -2,10 +2,15 @@ name: Pull Spotify Data from Google Drive
 
 on:
   schedule:
-    - cron: '0 9 5 3 *'      # Every year on March 5th at 9:00 AM UTC
+    - cron: '0 9 5 3 *'
   workflow_dispatch:
-  push:                      # Optional: Run on push (good for testing)
+  push:
     branches: [ SpotifyUnWrapped ]
+
+# Add these permissions
+permissions:
+  contents: write     # This allows the bot to push changes
+
 jobs:
   sync-drive:
     runs-on: ubuntu-latest
@@ -13,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # Important
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,6 +45,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update Spotify data from Google Drive (${{ github.event.schedule || 'manual' }})"
+            git commit -m "chore: update Spotify data from Google Drive"
             git push
           fi
