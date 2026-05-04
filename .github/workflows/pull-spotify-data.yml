@@ -4,7 +4,8 @@ on:
   schedule:
     - cron: '0 9 5 3 *'      # Every year on March 5th at 9:00 AM UTC
   workflow_dispatch:
-
+  push:                      # Optional: Run on push (good for testing)
+    branches: [ SpotifyUnWrapped ]
 jobs:
   sync-drive:
     runs-on: ubuntu-latest
