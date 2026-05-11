@@ -1,0 +1,482 @@
+{
+  "stats" : [ {
+    "date" : "2026-04-27",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Una Vez",
+      "streamCount" : 12,
+      "secondsPlayed" : 1957
+    }, {
+      "name" : "Crayola",
+      "streamCount" : 9,
+      "secondsPlayed" : 1832
+    }, {
+      "name" : "she goes by. - KayArchon Remix",
+      "streamCount" : 9,
+      "secondsPlayed" : 1073
+    }, {
+      "name" : "Muzan vs Hashira \"Demon Slayer Hashira Training Arc\" - Epic Version",
+      "streamCount" : 5,
+      "secondsPlayed" : 1532
+    }, {
+      "name" : "Waves",
+      "streamCount" : 5,
+      "secondsPlayed" : 1114
+    }, {
+      "name" : "Hecha Pa' Mi",
+      "streamCount" : 5,
+      "secondsPlayed" : 1017
+    }, {
+      "name" : "Anakin Theme (Dark Deeds) x Darth Vader (Imperial March)",
+      "streamCount" : 5,
+      "secondsPlayed" : 716
+    }, {
+      "name" : "Sube La Marea",
+      "streamCount" : 4,
+      "secondsPlayed" : 857
+    }, {
+      "name" : "CAMBIARÉ",
+      "streamCount" : 4,
+      "secondsPlayed" : 724
+    }, {
+      "name" : "Safaera",
+      "streamCount" : 4,
+      "secondsPlayed" : 696
+    } ],
+    "topArtists" : [ {
+      "name" : "Bad Bunny",
+      "streamCount" : 34,
+      "secondsPlayed" : 6629
+    }, {
+      "name" : "Chris Brown",
+      "streamCount" : 18,
+      "secondsPlayed" : 3169
+    }, {
+      "name" : "Krutikov Music",
+      "streamCount" : 14,
+      "secondsPlayed" : 2194
+    }, {
+      "name" : "Danny Ocean",
+      "streamCount" : 12,
+      "secondsPlayed" : 2038
+    }, {
+      "name" : "Cinescore",
+      "streamCount" : 9,
+      "secondsPlayed" : 1287
+    }, {
+      "name" : "KayArchonn",
+      "streamCount" : 9,
+      "secondsPlayed" : 1073
+    }, {
+      "name" : "Mora",
+      "streamCount" : 15,
+      "secondsPlayed" : 2421
+    }, {
+      "name" : "Boza",
+      "streamCount" : 8,
+      "secondsPlayed" : 1380
+    }, {
+      "name" : "Luis Fonsi",
+      "streamCount" : 7,
+      "secondsPlayed" : 1270
+    }, {
+      "name" : "Bear McCreary",
+      "streamCount" : 7,
+      "secondsPlayed" : 854
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-04-20",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Una Vez",
+      "streamCount" : 10,
+      "secondsPlayed" : 1572
+    }, {
+      "name" : "Safaera",
+      "streamCount" : 7,
+      "secondsPlayed" : 1761
+    }, {
+      "name" : "Verano Rosa",
+      "streamCount" : 7,
+      "secondsPlayed" : 1324
+    }, {
+      "name" : "BAILE INoLVIDABLE",
+      "streamCount" : 6,
+      "secondsPlayed" : 2056
+    }, {
+      "name" : "Hecha Pa' Mi",
+      "streamCount" : 6,
+      "secondsPlayed" : 1076
+    }, {
+      "name" : "Sube La Marea",
+      "streamCount" : 5,
+      "secondsPlayed" : 1334
+    }, {
+      "name" : "EoO",
+      "streamCount" : 5,
+      "secondsPlayed" : 541
+    }, {
+      "name" : "Vivir Mi Vida",
+      "streamCount" : 4,
+      "secondsPlayed" : 804
+    }, {
+      "name" : "One Of These",
+      "streamCount" : 4,
+      "secondsPlayed" : 737
+    }, {
+      "name" : "New Flame (feat. Usher & Rick Ross)",
+      "streamCount" : 4,
+      "secondsPlayed" : 729
+    } ],
+    "topArtists" : [ {
+      "name" : "Bad Bunny",
+      "streamCount" : 48,
+      "secondsPlayed" : 8601
+    }, {
+      "name" : "Chris Brown",
+      "streamCount" : 49,
+      "secondsPlayed" : 7658
+    }, {
+      "name" : "KAROL G",
+      "streamCount" : 15,
+      "secondsPlayed" : 2527
+    }, {
+      "name" : "Boza",
+      "streamCount" : 12,
+      "secondsPlayed" : 2217
+    }, {
+      "name" : "Sech",
+      "streamCount" : 14,
+      "secondsPlayed" : 2698
+    }, {
+      "name" : "Feid",
+      "streamCount" : 14,
+      "secondsPlayed" : 2373
+    }, {
+      "name" : "Krutikov Music",
+      "streamCount" : 9,
+      "secondsPlayed" : 1515
+    }, {
+      "name" : "Ozuna",
+      "streamCount" : 9,
+      "secondsPlayed" : 1463
+    }, {
+      "name" : "Mora",
+      "streamCount" : 12,
+      "secondsPlayed" : 1947
+    }, {
+      "name" : "Steve Jablonsky",
+      "streamCount" : 7,
+      "secondsPlayed" : 1283
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-04-13",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Sube La Marea",
+      "streamCount" : 19,
+      "secondsPlayed" : 5136
+    }, {
+      "name" : "Safaera",
+      "streamCount" : 12,
+      "secondsPlayed" : 2889
+    }, {
+      "name" : "Una Vez",
+      "streamCount" : 11,
+      "secondsPlayed" : 2354
+    }, {
+      "name" : "Hecha Pa' Mi",
+      "streamCount" : 9,
+      "secondsPlayed" : 1793
+    }, {
+      "name" : "The Batman Theme - Epic Version",
+      "streamCount" : 6,
+      "secondsPlayed" : 1852
+    }, {
+      "name" : "Muzan vs Hashira \"Demon Slayer Hashira Training Arc\" - Epic Version",
+      "streamCount" : 6,
+      "secondsPlayed" : 1577
+    }, {
+      "name" : "It Depends (feat. Bryson Tiller)",
+      "streamCount" : 6,
+      "secondsPlayed" : 1256
+    }, {
+      "name" : "Marianela",
+      "streamCount" : 6,
+      "secondsPlayed" : 1046
+    }, {
+      "name" : "Paris",
+      "streamCount" : 6,
+      "secondsPlayed" : 1045
+    }, {
+      "name" : "Verano Rosa",
+      "streamCount" : 5,
+      "secondsPlayed" : 1231
+    } ],
+    "topArtists" : [ {
+      "name" : "Bad Bunny",
+      "streamCount" : 61,
+      "secondsPlayed" : 11222
+    }, {
+      "name" : "Chris Brown",
+      "streamCount" : 38,
+      "secondsPlayed" : 7106
+    }, {
+      "name" : "Gaitanes",
+      "streamCount" : 20,
+      "secondsPlayed" : 5210
+    }, {
+      "name" : "Krutikov Music",
+      "streamCount" : 18,
+      "secondsPlayed" : 3341
+    }, {
+      "name" : "Boza",
+      "streamCount" : 16,
+      "secondsPlayed" : 3025
+    }, {
+      "name" : "KAROL G",
+      "streamCount" : 18,
+      "secondsPlayed" : 3283
+    }, {
+      "name" : "Wisin & Yandel",
+      "streamCount" : 16,
+      "secondsPlayed" : 2764
+    }, {
+      "name" : "Sech",
+      "streamCount" : 22,
+      "secondsPlayed" : 3220
+    }, {
+      "name" : "Feid",
+      "streamCount" : 19,
+      "secondsPlayed" : 3344
+    }, {
+      "name" : "Samuel Kim",
+      "streamCount" : 10,
+      "secondsPlayed" : 2594
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-05-03",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "King of the Monsters",
+      "secondEntity" : "You're The One I Love (with Rvssian)"
+    }
+  }, {
+    "date" : "2026-04-26",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Bad Bunny", "Chris Brown", "Sech", "BAILE INoLVIDABLE", "Safaera", "Una Vez", "Sube La Marea", "Verano Rosa", "Hecha Pa' Mi" ],
+      "milestoneListeningSeconds" : 57092
+    }
+  }, {
+    "date" : "2026-04-19",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Sube La Marea",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-04-12",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Una Vez",
+      "streamCount" : 31
+    }
+  }, {
+    "date" : "2026-04-05",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "TIENE QUE CHOCAR",
+      "country" : "US",
+      "position" : 5607
+    }
+  }, {
+    "date" : "2026-03-29",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Bad Bunny",
+      "country" : "US",
+      "secondsPlayed" : 8920,
+      "marketAvgSecondsPlayed" : 1574.9557
+    }
+  }, {
+    "date" : "2026-03-22",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "BAILE INoLVIDABLE",
+      "country" : "US",
+      "position" : 20,
+      "previousPosition" : 24,
+      "numberOfListeners" : 2469679
+    }
+  }, {
+    "date" : "2026-03-15",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Si necesitas ir allá…",
+      "listeningPercentage" : 32.16825823137372
+    }
+  }, {
+    "date" : "2026-03-08",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Order 66 Inquisition",
+      "secondEntity" : "Jiggle Jiggle"
+    }
+  }, {
+    "date" : "2026-03-01",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Chris Brown", "Bad Bunny", "Krutikov Music", "Muzan vs Hashira \"Demon Slayer Hashira Training Arc\" - Epic Version", "Anakin Theme (Dark Deeds) x Darth Vader (Imperial March)", "Volando - Remix", "CAMBIARÉ", "BAILE INoLVIDABLE", "Waves" ],
+      "milestoneListeningSeconds" : 85188
+    }
+  }, {
+    "date" : "2026-02-22",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Chris Brown",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-02-15",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Somebody’s Son",
+      "streamCount" : 13
+    }
+  }, {
+    "date" : "2026-02-08",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Chris Brown",
+      "country" : "US",
+      "secondsPlayed" : 6739,
+      "marketAvgSecondsPlayed" : 677.7701
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Kenny Man",
+      "secondEntity" : "Laco"
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Bad Bunny",
+      "milestoneListeningSeconds" : 13042
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Bad Bunny",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Mayores",
+      "streamCount" : 11
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Bad Bunny",
+      "country" : "US",
+      "secondsPlayed" : 13883,
+      "marketAvgSecondsPlayed" : 1528.0045
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Con El Pico Asi",
+      "secondEntity" : "When Christmas Comes to Town"
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Chris Brown",
+      "listeningPercentage" : 20.157243886057447
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Jay Wheeler",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Chris Brown", "Bad Bunny", "El Alfa", "It's Giving Christmas", "La Romana", "Love", "Ojitos Lindos", "no me quiero ir", "Undefeated" ],
+      "milestoneListeningSeconds" : 59250
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "It's Giving Christmas",
+      "streamCount" : 12
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Chris Brown",
+      "country" : "US",
+      "secondsPlayed" : 7246,
+      "marketAvgSecondsPlayed" : 708.6793
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "BAILE INoLVIDABLE",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "XAI",
+      "secondEntity" : "T.Y.S"
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Bad Bunny",
+      "listeningPercentage" : 27.75907035092932
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "VeLDÁ",
+      "streamCount" : 16
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Bad Bunny",
+      "country" : "US",
+      "secondsPlayed" : 11572,
+      "marketAvgSecondsPlayed" : 1677.6324
+    }
+  } ]
+}

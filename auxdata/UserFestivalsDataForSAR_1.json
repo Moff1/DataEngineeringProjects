@@ -1,0 +1,18 @@
+{
+  "festivalId" : "acl2026",
+  "totalArtistsMatched" : 8,
+  "userLineupMatchPercentile" : 71,
+  "festivalPersona" : "THE SEEKER",
+  "topArtists" : [ {
+    "name" : "Young Miko"
+  }, {
+    "name" : "Leon Thomas"
+  }, {
+    "name" : "Blood Orange"
+  }, {
+    "name" : "Skrillex"
+  }, {
+    "name" : "Steve Aoki"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}
