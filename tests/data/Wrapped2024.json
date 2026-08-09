@@ -1,0 +1,93 @@
+{
+  "topArtists" : {
+    "numUniqueArtists" : 1154,
+    "topArtists" : [ {
+      "artistUri" : "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    }, {
+      "artistUri" : "spotify:artist:6qxpnaukVayrQn6ViNvu9I"
+    }, {
+      "artistUri" : "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
+    }, {
+      "artistUri" : "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    }, {
+      "artistUri" : "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    } ],
+    "topArtistMilliseconds" : 615182194,
+    "topArtistFanPercentage" : 9.352101E-5
+  },
+  "topPodcasts" : {
+    "topPodcastsUri" : [ "spotify:show:2KYyAGSPNJKUKCuqURpDuV" ],
+    "topPodcastMilliseconds" : 4303258,
+    "topPodcastPercentage" : 0.0,
+    "totalPodcastMilliseconds" : 11860304
+  },
+  "topTracks" : {
+    "topTracks" : [ "spotify:track:2BEcap3xJtmiPaHKyfQi4e", "spotify:track:3ScMs95OaNlkrZuRe7gyYa", "spotify:track:4QTlxavdQGUVitxAvQqqkU", "spotify:track:7D60mvrq5guYFUbt84FeVk", "spotify:track:3tt9i3Hhzq84dPS8H7iSiJ" ],
+    "topTrackPlayCount" : 223,
+    "topTrackFirstPlayedDate" : "2024-01-02",
+    "distinctTracksPlayed" : 2491
+  },
+  "yearlyMetrics" : {
+    "totalMsListened" : 2645268134,
+    "mostListenedDay" : "2024-07-13",
+    "mostListenedDayMinutes" : 615.8227,
+    "percentGreaterThanWorldwideUsers" : 94.2563
+  },
+  "musicEvolution" : {
+    "eras" : [ {
+      "key" : "0",
+      "peakMonth" : 4,
+      "color" : "red-green",
+      "genre" : "rap",
+      "mood" : "boujee",
+      "descriptor" : "football",
+      "pivotalArtists" : [ "spotify:artist:0ErzCpIMyLcjPiwT4elrtZ", "spotify:artist:6qxpnaukVayrQn6ViNvu9I", "spotify:artist:3TVXtAsR1Inumwj472S9r4" ],
+      "tracks" : [ {
+        "trackName" : "PISTOL PACCIN",
+        "trackUri" : "spotify:track:3ScMs95OaNlkrZuRe7gyYa"
+      }, {
+        "trackName" : "Mmhmm",
+        "trackUri" : "spotify:track:4QTlxavdQGUVitxAvQqqkU"
+      }, {
+        "trackName" : "Yeah Glo!",
+        "trackUri" : "spotify:track:0rxSRS0Cpw0Hxi7zLNudhm"
+      } ]
+    }, {
+      "key" : "1",
+      "peakMonth" : 5,
+      "color" : "green-blue",
+      "genre" : "r&b",
+      "mood" : "mood music",
+      "descriptor" : "throwback pop",
+      "pivotalArtists" : [ "spotify:artist:7bXgB6jMjp9ATFy66eO08Z", "spotify:artist:23zg3TcAtWQy7J6upgbUnj", "spotify:artist:21E3waRsmPlU7jZsS13rcj" ],
+      "tracks" : [ {
+        "trackName" : "Feels (feat. Chris Brown)",
+        "trackUri" : "spotify:track:7D60mvrq5guYFUbt84FeVk"
+      }, {
+        "trackName" : "Ain't Thinkin' 'Bout You",
+        "trackUri" : "spotify:track:4GtvQ52U6f9LGkwjAqL60e"
+      }, {
+        "trackName" : "Water",
+        "trackUri" : "spotify:track:3VgV4SSGsWj62WEBWDnNYD"
+      } ]
+    }, {
+      "key" : "2",
+      "peakMonth" : 6,
+      "color" : "red-green",
+      "genre" : "latin dance",
+      "mood" : "entertaining",
+      "descriptor" : "hollywood",
+      "pivotalArtists" : [ "spotify:artist:4V8Sr092TqfHkfAA5fXXqG", "spotify:artist:7qG3b048QCHVRO5Pv1T5lw", "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5" ],
+      "tracks" : [ {
+        "trackName" : "Échame La Culpa",
+        "trackUri" : "spotify:track:0mlAOSILGRys2IbvyOT5VJ"
+      }, {
+        "trackName" : "Despacito",
+        "trackUri" : "spotify:track:6habFhsOp2NvshLv26DqMb"
+      }, {
+        "trackName" : "Calypso",
+        "trackUri" : "spotify:track:2u7tDWQ6LX0Kw1LiK1jaok"
+      } ]
+    } ]
+  }
+}

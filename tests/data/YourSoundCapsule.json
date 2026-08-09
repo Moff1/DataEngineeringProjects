@@ -1,0 +1,385 @@
+{
+  "stats" : [ {
+    "date" : "2025-12-29",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Volando - Remix",
+      "streamCount" : 13,
+      "secondsPlayed" : 3153
+    }, {
+      "name" : "Hecha Pa' Mi",
+      "streamCount" : 11,
+      "secondsPlayed" : 2022
+    }, {
+      "name" : "Mayores",
+      "streamCount" : 9,
+      "secondsPlayed" : 1650
+    }, {
+      "name" : "Akaza Theme (Epic Version) Demon Slayer Mugen Train",
+      "streamCount" : 8,
+      "secondsPlayed" : 1486
+    }, {
+      "name" : "Hasta Que Dios Diga",
+      "streamCount" : 7,
+      "secondsPlayed" : 1187
+    }, {
+      "name" : "You Say Run",
+      "streamCount" : 6,
+      "secondsPlayed" : 1324
+    }, {
+      "name" : "Verano Rosa",
+      "streamCount" : 6,
+      "secondsPlayed" : 1140
+    }, {
+      "name" : "UNA NOCHE EN MEDELLÍN - REMIX",
+      "streamCount" : 6,
+      "secondsPlayed" : 1140
+    }, {
+      "name" : "How Many",
+      "streamCount" : 5,
+      "secondsPlayed" : 747
+    }, {
+      "name" : "BAILE INoLVIDABLE",
+      "streamCount" : 5,
+      "secondsPlayed" : 1671
+    } ],
+    "topArtists" : [ {
+      "name" : "Bad Bunny",
+      "streamCount" : 63,
+      "secondsPlayed" : 13883
+    }, {
+      "name" : "El Alfa",
+      "streamCount" : 34,
+      "secondsPlayed" : 5852
+    }, {
+      "name" : "Boza",
+      "streamCount" : 23,
+      "secondsPlayed" : 4143
+    }, {
+      "name" : "KAROL G",
+      "streamCount" : 22,
+      "secondsPlayed" : 3913
+    }, {
+      "name" : "Sech",
+      "streamCount" : 36,
+      "secondsPlayed" : 7430
+    }, {
+      "name" : "Rauw Alejandro",
+      "streamCount" : 21,
+      "secondsPlayed" : 3978
+    }, {
+      "name" : "Ashif N",
+      "streamCount" : 14,
+      "secondsPlayed" : 1959
+    }, {
+      "name" : "Becky G",
+      "streamCount" : 16,
+      "secondsPlayed" : 2620
+    }, {
+      "name" : "Mora",
+      "streamCount" : 13,
+      "secondsPlayed" : 3153
+    }, {
+      "name" : "Daddy Yankee",
+      "streamCount" : 16,
+      "secondsPlayed" : 3017
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12-22",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "It's Giving Christmas",
+      "streamCount" : 8,
+      "secondsPlayed" : 1742
+    }, {
+      "name" : "Volando - Remix",
+      "streamCount" : 7,
+      "secondsPlayed" : 1873
+    }, {
+      "name" : "Este Tema Maste",
+      "streamCount" : 6,
+      "secondsPlayed" : 1017
+    }, {
+      "name" : "Ojitos Lindos",
+      "streamCount" : 6,
+      "secondsPlayed" : 1455
+    }, {
+      "name" : "BAILE INoLVIDABLE",
+      "streamCount" : 5,
+      "secondsPlayed" : 1835
+    }, {
+      "name" : "Mayores",
+      "streamCount" : 5,
+      "secondsPlayed" : 981
+    }, {
+      "name" : "Hecha Pa' Mi",
+      "streamCount" : 5,
+      "secondsPlayed" : 1007
+    }, {
+      "name" : "UNA NOCHE EN MEDELLÍN - REMIX",
+      "streamCount" : 5,
+      "secondsPlayed" : 903
+    }, {
+      "name" : "Los Aparatos",
+      "streamCount" : 4,
+      "secondsPlayed" : 909
+    }, {
+      "name" : "VeLDÁ",
+      "streamCount" : 4,
+      "secondsPlayed" : 901
+    } ],
+    "topArtists" : [ {
+      "name" : "Bad Bunny",
+      "streamCount" : 59,
+      "secondsPlayed" : 13182
+    }, {
+      "name" : "Sech",
+      "streamCount" : 40,
+      "secondsPlayed" : 7242
+    }, {
+      "name" : "El Alfa",
+      "streamCount" : 36,
+      "secondsPlayed" : 6144
+    }, {
+      "name" : "Chris Brown",
+      "streamCount" : 29,
+      "secondsPlayed" : 5707
+    }, {
+      "name" : "Rauw Alejandro",
+      "streamCount" : 26,
+      "secondsPlayed" : 4446
+    }, {
+      "name" : "Jay Wheeler",
+      "streamCount" : 19,
+      "secondsPlayed" : 3669
+    }, {
+      "name" : "Boza",
+      "streamCount" : 13,
+      "secondsPlayed" : 2251
+    }, {
+      "name" : "KAROL G",
+      "streamCount" : 11,
+      "secondsPlayed" : 1721
+    }, {
+      "name" : "Justin Bieber",
+      "streamCount" : 11,
+      "secondsPlayed" : 1855
+    }, {
+      "name" : "Daddy Yankee",
+      "streamCount" : 14,
+      "secondsPlayed" : 2611
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12-15",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "It's Giving Christmas",
+      "streamCount" : 9,
+      "secondsPlayed" : 1809
+    }, {
+      "name" : "Ojitos Lindos",
+      "streamCount" : 7,
+      "secondsPlayed" : 1287
+    }, {
+      "name" : "Christmas Love",
+      "streamCount" : 4,
+      "secondsPlayed" : 794
+    }, {
+      "name" : "Mirando Al Cielo",
+      "streamCount" : 4,
+      "secondsPlayed" : 340
+    }, {
+      "name" : "Me Enamoré",
+      "streamCount" : 4,
+      "secondsPlayed" : 989
+    }, {
+      "name" : "BAILE INoLVIDABLE",
+      "streamCount" : 3,
+      "secondsPlayed" : 1048
+    }, {
+      "name" : "EoO",
+      "streamCount" : 3,
+      "secondsPlayed" : 728
+    }, {
+      "name" : "It Depends (feat. Bryson Tiller)",
+      "streamCount" : 3,
+      "secondsPlayed" : 722
+    }, {
+      "name" : "LA MuDANZA",
+      "streamCount" : 3,
+      "secondsPlayed" : 656
+    }, {
+      "name" : "Dardos",
+      "streamCount" : 3,
+      "secondsPlayed" : 606
+    } ],
+    "topArtists" : [ {
+      "name" : "Bad Bunny",
+      "streamCount" : 34,
+      "secondsPlayed" : 7183
+    }, {
+      "name" : "Chris Brown",
+      "streamCount" : 28,
+      "secondsPlayed" : 5102
+    }, {
+      "name" : "Rauw Alejandro",
+      "streamCount" : 11,
+      "secondsPlayed" : 1337
+    }, {
+      "name" : "Jay Wheeler",
+      "streamCount" : 9,
+      "secondsPlayed" : 1686
+    }, {
+      "name" : "Fridayy",
+      "streamCount" : 5,
+      "secondsPlayed" : 798
+    }, {
+      "name" : "Romeo Santos",
+      "streamCount" : 4,
+      "secondsPlayed" : 845
+    }, {
+      "name" : "Justin Bieber",
+      "streamCount" : 4,
+      "secondsPlayed" : 794
+    }, {
+      "name" : "Zhamira ",
+      "streamCount" : 5,
+      "secondsPlayed" : 786
+    }, {
+      "name" : "KAROL G",
+      "streamCount" : 4,
+      "secondsPlayed" : 636
+    }, {
+      "name" : "Burna Boy",
+      "streamCount" : 4,
+      "secondsPlayed" : 609
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-01-04",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Bad Bunny",
+      "country" : "US",
+      "secondsPlayed" : 13883,
+      "marketAvgSecondsPlayed" : 1528.0045
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Con El Pico Asi",
+      "secondEntity" : "When Christmas Comes to Town"
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Chris Brown",
+      "listeningPercentage" : 20.157243886057447
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Jay Wheeler",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Chris Brown", "Bad Bunny", "El Alfa", "It's Giving Christmas", "La Romana", "Love", "Ojitos Lindos", "no me quiero ir", "Undefeated" ],
+      "milestoneListeningSeconds" : 59250
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "It's Giving Christmas",
+      "streamCount" : 12
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Chris Brown",
+      "country" : "US",
+      "secondsPlayed" : 7246,
+      "marketAvgSecondsPlayed" : 708.6793
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "BAILE INoLVIDABLE",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "XAI",
+      "secondEntity" : "T.Y.S"
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Bad Bunny",
+      "listeningPercentage" : 27.75907035092932
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "VeLDÁ",
+      "streamCount" : 16
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Bad Bunny",
+      "country" : "US",
+      "secondsPlayed" : 11572,
+      "marketAvgSecondsPlayed" : 1677.6324
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Chris Brown", "Bad Bunny", "El Alfa", "Los Aparatos", "UNA NOCHE EN MEDELLÍN - REMIX", "Hecha Pa' Mi", "BAILE INoLVIDABLE", "EoO", "Reggaetón Lento (Bailemos)" ],
+      "milestoneListeningSeconds" : 50886
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "UNA NOCHE EN MEDELLÍN - REMIX",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Chris Brown",
+      "country" : "US",
+      "secondsPlayed" : 8678,
+      "marketAvgSecondsPlayed" : 795.1922
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Hecha Pa' Mi",
+      "dayStreaks" : 4
+    }
+  } ]
+}

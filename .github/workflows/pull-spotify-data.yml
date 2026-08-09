@@ -33,7 +33,7 @@ jobs:
 
       - name: Run Google Drive Download Script
         env:
-          GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}
+          GDRIVE_CREDENTIALS: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: python pull_from_drive.py
 
       - name: Commit and push new files (if any)
